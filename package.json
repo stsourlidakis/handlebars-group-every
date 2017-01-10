@@ -1,6 +1,6 @@
 {
   "name": "handlebars-group-every",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Group every N items helpers for handlebars and express",
   "main": "index.js",
   "scripts": {
