@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-group-every",
+  "version": "1.0.0",
+  "description": "Group every N items helpers for handlebars and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stsourlidakis/handlebars-group-every.git"
+  },
+  "keywords": [
+    "handlebars",
+    "express",
+    "group",
+    "every",
+    "helper"
+  ],
+  "author": "Stavros Tsourlidakis <'s.tsourlidakis@hotmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stsourlidakis/handlebars-group-every/issues"
+  },
+  "homepage": "https://github.com/stsourlidakis/handlebars-group-every#readme"
+}
